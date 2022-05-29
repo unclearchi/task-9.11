@@ -1,0 +1,26 @@
+.card {
+    background-color: rgb(212, 246, 250);
+}
+
+.card-header {
+    background-color: rgb(44, 56, 166);
+    font-size: 30px;
+}
+
+.btn {
+    height: 70px;
+    width: 170px;
+    background-color: rgb(180, 207, 117);
+    font-size: 30px;
+    margin: 30px;
+    border:rgb(104, 202, 99) solid;
+    border-radius: 7%;
+}
+
+span {
+    font-weight: bold;
+}
+
+.btn:hover {
+    background-color: rgb(50, 166, 44);
+}
